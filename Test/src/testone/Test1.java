@@ -6,5 +6,7 @@ public class Test1 {
 		String name="danna";
 
 		System.out.println(name);
+		String name2="lico";
+		System.out.println("lico");
 	}
 }
