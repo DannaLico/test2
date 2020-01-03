@@ -8,5 +8,6 @@ public class Test2 {
 		System.out.println(name);
 		String name2="lico";
 		System.out.println("lico");
+		System.out.println(name2);
 	}
 }
